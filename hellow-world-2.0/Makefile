@@ -1,4 +1,4 @@
-TARGET=hello-world
+TARGET=hellow-world
 CC=g++
 DEBUG=-g
 OPT=-O0
